@@ -62,3 +62,7 @@ Trends Over Time: The line chart provides a visual representation of the pandemi
 
 Conclusion:
 This Power BI project offers a detailed and interactive way to explore and understand the global impact of COVID-19. By leveraging various visualizations, users can gain valuable insights into the spread and evolution of the pandemic over the years.
+
+Acknowledgements
+
+I would like to thank the World Health Organization (WHO) for providing the data used in this project.
