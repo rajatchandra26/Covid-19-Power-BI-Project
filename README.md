@@ -3,7 +3,8 @@ Project Overview:
 
 This project provides an in-depth analysis and visualization of the global COVID-19 pandemic using Power BI. The data used in this project is sourced from the WHO website, providing a comprehensive, date-wise record of COVID-19 cases worldwide. The aim is to create an interactive and insightful dashboard that can help users understand the spread and impact of the virus.
 
-![Dashboard](https://github.com/rajatchandra26/Covid-19-Power-BI-Project/assets/174364300/9613d71d-dd09-430e-9d2c-4c7c616dd223)
+![image](https://github.com/user-attachments/assets/a4b55033-9a9d-485d-87c2-72ef43d0ab70)
+
 
 
 Data Source
@@ -22,7 +23,8 @@ Description: Displays the distribution of confirmed COVID-19 cases across differ
 
 Purpose: Helps visualize the global impact and identify regions with high infection rates.
 
-![image](https://github.com/rajatchandra26/Covid-19-Power-BI-Project/assets/174364300/65c29ae7-1fb9-4312-9eca-c54a960d93b8)
+![image](https://github.com/user-attachments/assets/fcb86a53-8b9b-4775-9ba9-dab018ff9e6d)
+
 
 
 2. Bar Chart
@@ -31,7 +33,8 @@ Description: Shows the confirmed cases in the top 10 nations worldwide.
 
 Purpose: Allows for easy comparison of the most affected countries.
 
-![image](https://github.com/rajatchandra26/Covid-19-Power-BI-Project/assets/174364300/52be4f91-3165-4560-bddb-813c7e0053d1)
+![image](https://github.com/user-attachments/assets/8dd57a33-e79d-4f87-8ba8-6e167f902d6c)
+
 
 
 3. Line Chart
@@ -40,7 +43,8 @@ Description: Displays the month-wise cumulative data of cases and deaths.
 
 Purpose: Highlights the trend of the pandemic over time, showing peaks and declines.
 
-![image](https://github.com/rajatchandra26/Covid-19-Power-BI-Project/assets/174364300/b48d2a6b-76f2-4ecc-ae98-b9edb6da95ae)
+![image](https://github.com/user-attachments/assets/e4317fdc-0dfb-481a-899e-ba954e3438ad)
+
 
 
 4. Sliders
@@ -49,7 +53,8 @@ Description: Used to select the year between 2020-2024.
 
 Purpose: Provides an interactive way to filter the data by specific years, enhancing the user experience.
 
-![image](https://github.com/rajatchandra26/Covid-19-Power-BI-Project/assets/174364300/ffbb8458-958a-423b-8b9b-aa847419b99b)
+![image](https://github.com/user-attachments/assets/7ea3fa1c-62d5-4f0f-a9da-5624a2cf98ee)
+
 
 
 Key Insights
