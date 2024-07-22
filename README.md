@@ -3,7 +3,8 @@ Project Overview:
 
 This project provides an in-depth analysis and visualization of the global COVID-19 pandemic using Power BI. The data used in this project is sourced from the WHO website, providing a comprehensive, date-wise record of COVID-19 cases worldwide. The aim is to create an interactive and insightful dashboard that can help users understand the spread and impact of the virus.
 
-![image](https://github.com/user-attachments/assets/a4b55033-9a9d-485d-87c2-72ef43d0ab70)
+![image](https://github.com/user-attachments/assets/83dc16f2-fcef-4162-ad45-8c1ed41a54cd)
+
 
 
 
